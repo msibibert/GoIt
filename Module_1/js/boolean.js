@@ -1,3 +1,4 @@
+'use strict';
 // Булевый тип (boolean) может принимать только два значения: true (истина) и false (ложь).
 
 const yes = true;
